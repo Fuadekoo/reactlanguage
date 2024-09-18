@@ -1,0 +1,9 @@
+{
+    "header":{
+        "message": "Hello, World!"
+    },
+    "home": {
+        "body": "Welcome to the home page!"
+    }
+
+}
